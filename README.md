@@ -1,2 +1,2 @@
-# git-practice
-my first git practice project
+#git course
+this a course 
